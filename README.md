@@ -69,7 +69,7 @@ pip install numpy matplotlib pillow scipy
 
 Download or Clone this Repository
 
-git clone https://github.com/Nikhil Devari/ImageFilterApp.git
+git clone (https://github.com/devdnikhil5/NUMPYIMAGEFILTERAPP)
 
 
 Navigate to the project directory
